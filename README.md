@@ -2,9 +2,7 @@
 
 Umeng统计使用demo，此demo只包括统计app下载量，启动次数，以及渠道安装量。
 
-作者：程序员小冰，GitHub主页：https://github.com/QQ986945193
-
-新浪微博：http://weibo.com/mcxiaobing
+作者：程序员小冰，新浪微博：http://weibo.com/mcxiaobing
 
 里面只是一个简单的使用统计，具体更多功能请看umeng官方sdk文档介绍：
 
